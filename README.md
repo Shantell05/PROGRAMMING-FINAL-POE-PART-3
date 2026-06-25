@@ -177,6 +177,104 @@ The **Cybersecurity Awareness Bot - Part 2** is a **WPF GUI application** that e
 | **Speakers** | Required for voice greeting |
 | **Visual Studio** |  2026 |
 
+ #  Cybersecurity Awareness Bot - Part 3/POE
+
+##  PROJECT INFORMATION
+
+| **Module Name** | Programming 2A |
+| **Module Code** | PROG6221/W |
+| **Student Name** | [Shantell Malatjie] |
+| **Student Number** | [ ST10475153] |
+| **Date** | June 2026 |
+| **IDE** | Visual Studio 2026 |
+| **.NET Version** | .NET 8.0 |
+| **Part** | Part 3 - POE (Final) |
+
+
+##  TABLE OF CONTENTS
+
+1. [Project Overview](#-project-overview)
+2. [Features Implemented](#-features-implemented)
+3. [System Requirements](#-system-requirements)
+4. [Installation Guide](#-installation-guide)
+5. [Project Structure](#-project-structure)
+6. [How to Use the Application](#-how-to-use-the-application)
+7. [Database Setup](#-database-setup)
+8. [Features Explained](#-features-explained)
+9. [Troubleshooting](#-troubleshooting)
+10. [GitHub Setup & Commits](#-github-setup--commits)
+11. [Video Presentation Guide](#-video-presentation-guide)
+ 
+  
+
+##  PROJECT OVERVIEW
+
+The **Cybersecurity Awareness Bot - Part 3** is the final POE submission that builds upon Parts 1 and 2. It is a complete WPF GUI application that features:
+
+### Core Functionalities
+
+| # | Feature | Description |
+|---|---------|-------------|
+| 1 | **Chat Interface** | Interactive chat with ASCII art and voice greeting |
+| 2 | **Task Assistant** | Add, view, complete, and delete cybersecurity tasks with reminders |
+| 3 | **Database Integration** | SQLite database for persistent task storage |
+| 4 | **Cybersecurity Quiz** | 12 questions with immediate feedback and score tracking |
+| 5 | **NLP Simulation** | Keyword detection for natural language understanding |
+| 6 | **Activity Log** | Tracks all bot actions with timestamps |
+| 7 | **Memory & Recall** | Remembers user name and interests |
+| 8 | **Sentiment Detection** | Detects user mood and adapts responses |
+
+
+##  FEATURES IMPLEMENTED
+
+### Part 1 Features (Console Version - Converted to GUI)
+- Voice greeting on startup (`greeting.wav`)
+-  ASCII art logo display
+-  Personalised greetings with user name
+- Cybersecurity responses (50+ topics)
+
+### Part 2 Features (GUI Enhancement)
+-Professional WPF interface with chat bubbles
+- Keyword recognition (password, phishing, privacy, 2FA, etc.)
+- Random responses using Lists
+- Conversation flow with follow-up detection
+-  Memory and recall of user details
+- Sentiment detection (worried, curious, frustrated, positive)
+
+### Part 3 Features (New Additions)
+-  **Task Assistant** with reminders
+-  **SQLite Database** for task storage
+- **Cybersecurity Quiz** with 12 questions
+-  **NLP Simulation** with intent detection
+- **Activity Log** tracking all actions
+- Full CRUD operations on tasks
+- Seamless integration of all parts
+
+
+## SYSTEM REQUIREMENTS
+
+### Minimum Requirements
+
+| Component | Requirement |
+|-----------|-------------|
+| **Operating System** | Windows 10/11 |
+| **.NET Runtime** | .NET 8.0 or higher |
+| **RAM** | 2GB minimum |
+| **Disk Space** | 100MB free space |
+| **Speakers** | Required for voice greeting |
+| **Visual Studio** | 2022 or 2026 |
+
+### Required NuGet Package
+
+| Package | Version | Purpose |
+|---------|---------|---------|
+| System.Data.SQLite.Core | 1.0.118+ | Database for task storage |
+
+ 
+
+
+ 
+
  
 
  

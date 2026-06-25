@@ -87,11 +87,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bneng\\Downloads\\CybersecurityChatbotWPF T\\CybersecurityChatbotWPF\\CybersecurityChatbotWPF.csproj",
+      "projectUniqueName": "C:\\Users\\bneng\\Documents\\GitHub\\PROGRAMMING FINAL POE PART 3\\CybersecurityChatbotWPF.csproj",
       "projectName": "CybersecurityChatbotWPF",
-      "projectPath": "C:\\Users\\bneng\\Downloads\\CybersecurityChatbotWPF T\\CybersecurityChatbotWPF\\CybersecurityChatbotWPF.csproj",
+      "projectPath": "C:\\Users\\bneng\\Documents\\GitHub\\PROGRAMMING FINAL POE PART 3\\CybersecurityChatbotWPF.csproj",
       "packagesPath": "C:\\Users\\bneng\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bneng\\Downloads\\CybersecurityChatbotWPF T\\CybersecurityChatbotWPF\\obj\\",
+      "outputPath": "C:\\Users\\bneng\\Documents\\GitHub\\PROGRAMMING FINAL POE PART 3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

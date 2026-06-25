@@ -81,6 +81,10 @@ The **Cybersecurity Awareness Bot - Part 2** is a **WPF GUI application** that e
 | **Speakers** | Required for voice greeting |
 | **Visual Studio** |  2026 |
 
- 
+ ## GitHub Releases
+v1.0.0 - Initial Stable Release
+v1.1.0 - Feature Update
+v1.2.0 - Stability and Performance Update
+
 
  

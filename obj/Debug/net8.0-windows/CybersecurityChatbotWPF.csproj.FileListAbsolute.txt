@@ -1,0 +1,54 @@
+C:\Users\bneng\Downloads\CybersecurityChatbotWPF_FIXED\CybersecurityChatbotWPF\bin\Debug\net8.0-windows\CybersecurityChatbotWPF.exe
+C:\Users\bneng\Downloads\CybersecurityChatbotWPF_FIXED\CybersecurityChatbotWPF\bin\Debug\net8.0-windows\CybersecurityChatbotWPF.deps.json
+C:\Users\bneng\Downloads\CybersecurityChatbotWPF_FIXED\CybersecurityChatbotWPF\bin\Debug\net8.0-windows\CybersecurityChatbotWPF.runtimeconfig.json
+C:\Users\bneng\Downloads\CybersecurityChatbotWPF_FIXED\CybersecurityChatbotWPF\bin\Debug\net8.0-windows\CybersecurityChatbotWPF.dll
+C:\Users\bneng\Downloads\CybersecurityChatbotWPF_FIXED\CybersecurityChatbotWPF\bin\Debug\net8.0-windows\CybersecurityChatbotWPF.pdb
+C:\Users\bneng\Downloads\CybersecurityChatbotWPF_FIXED\CybersecurityChatbotWPF\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\bneng\Downloads\CybersecurityChatbotWPF_FIXED\CybersecurityChatbotWPF\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\bneng\Downloads\CybersecurityChatbotWPF_FIXED\CybersecurityChatbotWPF\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\bneng\Downloads\CybersecurityChatbotWPF_FIXED\CybersecurityChatbotWPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\bneng\Downloads\CybersecurityChatbotWPF_FIXED\CybersecurityChatbotWPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\bneng\Downloads\CybersecurityChatbotWPF_FIXED\CybersecurityChatbotWPF\obj\Debug\net8.0-windows\CybersecurityChatbotWPF.csproj.AssemblyReference.cache
+C:\Users\bneng\Downloads\CybersecurityChatbotWPF_FIXED\CybersecurityChatbotWPF\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\bneng\Downloads\CybersecurityChatbotWPF_FIXED\CybersecurityChatbotWPF\obj\Debug\net8.0-windows\App.baml
+C:\Users\bneng\Downloads\CybersecurityChatbotWPF_FIXED\CybersecurityChatbotWPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\bneng\Downloads\CybersecurityChatbotWPF_FIXED\CybersecurityChatbotWPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\bneng\Downloads\CybersecurityChatbotWPF_FIXED\CybersecurityChatbotWPF\obj\Debug\net8.0-windows\CybersecurityChatbotWPF_MarkupCompile.cache
+C:\Users\bneng\Downloads\CybersecurityChatbotWPF_FIXED\CybersecurityChatbotWPF\obj\Debug\net8.0-windows\CybersecurityChatbotWPF.g.resources
+C:\Users\bneng\Downloads\CybersecurityChatbotWPF_FIXED\CybersecurityChatbotWPF\obj\Debug\net8.0-windows\CybersecurityChatbotWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bneng\Downloads\CybersecurityChatbotWPF_FIXED\CybersecurityChatbotWPF\obj\Debug\net8.0-windows\CybersecurityChatbotWPF.AssemblyInfoInputs.cache
+C:\Users\bneng\Downloads\CybersecurityChatbotWPF_FIXED\CybersecurityChatbotWPF\obj\Debug\net8.0-windows\CybersecurityChatbotWPF.AssemblyInfo.cs
+C:\Users\bneng\Downloads\CybersecurityChatbotWPF_FIXED\CybersecurityChatbotWPF\obj\Debug\net8.0-windows\CybersecurityChatbotWPF.csproj.CoreCompileInputs.cache
+C:\Users\bneng\Downloads\CybersecurityChatbotWPF_FIXED\CybersecurityChatbotWPF\obj\Debug\net8.0-windows\Cybersec.93D07A33.Up2Date
+C:\Users\bneng\Downloads\CybersecurityChatbotWPF_FIXED\CybersecurityChatbotWPF\obj\Debug\net8.0-windows\CybersecurityChatbotWPF.dll
+C:\Users\bneng\Downloads\CybersecurityChatbotWPF_FIXED\CybersecurityChatbotWPF\obj\Debug\net8.0-windows\refint\CybersecurityChatbotWPF.dll
+C:\Users\bneng\Downloads\CybersecurityChatbotWPF_FIXED\CybersecurityChatbotWPF\obj\Debug\net8.0-windows\CybersecurityChatbotWPF.pdb
+C:\Users\bneng\Downloads\CybersecurityChatbotWPF_FIXED\CybersecurityChatbotWPF\obj\Debug\net8.0-windows\CybersecurityChatbotWPF.genruntimeconfig.cache
+C:\Users\bneng\Downloads\CybersecurityChatbotWPF_FIXED\CybersecurityChatbotWPF\obj\Debug\net8.0-windows\ref\CybersecurityChatbotWPF.dll
+C:\Users\bneng\Downloads\CybersecurityChatbotWPF T\CybersecurityChatbotWPF\bin\Debug\net8.0-windows\CybersecurityChatbotWPF.exe
+C:\Users\bneng\Downloads\CybersecurityChatbotWPF T\CybersecurityChatbotWPF\bin\Debug\net8.0-windows\CybersecurityChatbotWPF.deps.json
+C:\Users\bneng\Downloads\CybersecurityChatbotWPF T\CybersecurityChatbotWPF\bin\Debug\net8.0-windows\CybersecurityChatbotWPF.runtimeconfig.json
+C:\Users\bneng\Downloads\CybersecurityChatbotWPF T\CybersecurityChatbotWPF\bin\Debug\net8.0-windows\CybersecurityChatbotWPF.dll
+C:\Users\bneng\Downloads\CybersecurityChatbotWPF T\CybersecurityChatbotWPF\bin\Debug\net8.0-windows\CybersecurityChatbotWPF.pdb
+C:\Users\bneng\Downloads\CybersecurityChatbotWPF T\CybersecurityChatbotWPF\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\bneng\Downloads\CybersecurityChatbotWPF T\CybersecurityChatbotWPF\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\bneng\Downloads\CybersecurityChatbotWPF T\CybersecurityChatbotWPF\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\bneng\Downloads\CybersecurityChatbotWPF T\CybersecurityChatbotWPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\bneng\Downloads\CybersecurityChatbotWPF T\CybersecurityChatbotWPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\bneng\Downloads\CybersecurityChatbotWPF T\CybersecurityChatbotWPF\obj\Debug\net8.0-windows\CybersecurityChatbotWPF.csproj.AssemblyReference.cache
+C:\Users\bneng\Downloads\CybersecurityChatbotWPF T\CybersecurityChatbotWPF\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\bneng\Downloads\CybersecurityChatbotWPF T\CybersecurityChatbotWPF\obj\Debug\net8.0-windows\App.baml
+C:\Users\bneng\Downloads\CybersecurityChatbotWPF T\CybersecurityChatbotWPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\bneng\Downloads\CybersecurityChatbotWPF T\CybersecurityChatbotWPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\bneng\Downloads\CybersecurityChatbotWPF T\CybersecurityChatbotWPF\obj\Debug\net8.0-windows\CybersecurityChatbotWPF_MarkupCompile.cache
+C:\Users\bneng\Downloads\CybersecurityChatbotWPF T\CybersecurityChatbotWPF\obj\Debug\net8.0-windows\CybersecurityChatbotWPF.g.resources
+C:\Users\bneng\Downloads\CybersecurityChatbotWPF T\CybersecurityChatbotWPF\obj\Debug\net8.0-windows\CybersecurityChatbotWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bneng\Downloads\CybersecurityChatbotWPF T\CybersecurityChatbotWPF\obj\Debug\net8.0-windows\CybersecurityChatbotWPF.AssemblyInfoInputs.cache
+C:\Users\bneng\Downloads\CybersecurityChatbotWPF T\CybersecurityChatbotWPF\obj\Debug\net8.0-windows\CybersecurityChatbotWPF.AssemblyInfo.cs
+C:\Users\bneng\Downloads\CybersecurityChatbotWPF T\CybersecurityChatbotWPF\obj\Debug\net8.0-windows\CybersecurityChatbotWPF.csproj.CoreCompileInputs.cache
+C:\Users\bneng\Downloads\CybersecurityChatbotWPF T\CybersecurityChatbotWPF\obj\Debug\net8.0-windows\Cybersec.93D07A33.Up2Date
+C:\Users\bneng\Downloads\CybersecurityChatbotWPF T\CybersecurityChatbotWPF\obj\Debug\net8.0-windows\CybersecurityChatbotWPF.dll
+C:\Users\bneng\Downloads\CybersecurityChatbotWPF T\CybersecurityChatbotWPF\obj\Debug\net8.0-windows\refint\CybersecurityChatbotWPF.dll
+C:\Users\bneng\Downloads\CybersecurityChatbotWPF T\CybersecurityChatbotWPF\obj\Debug\net8.0-windows\CybersecurityChatbotWPF.pdb
+C:\Users\bneng\Downloads\CybersecurityChatbotWPF T\CybersecurityChatbotWPF\obj\Debug\net8.0-windows\CybersecurityChatbotWPF.genruntimeconfig.cache
+C:\Users\bneng\Downloads\CybersecurityChatbotWPF T\CybersecurityChatbotWPF\obj\Debug\net8.0-windows\ref\CybersecurityChatbotWPF.dll
